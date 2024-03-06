@@ -145,32 +145,32 @@ PXD013273	EC-9-6.raw	Escherichia coli str. K-12 substr. MG1655	uniprot_UP0000006
 PXD013273	EC-9-7.raw	Escherichia coli str. K-12 substr. MG1655	uniprot_UP000000625_17-11-22_K12	FALSE	
 PXD013273	EC-9-8.raw	Escherichia coli str. K-12 substr. MG1655	uniprot_UP000000625_17-11-22_K12	FALSE	
 PXD013273	EC-9-9.raw	Escherichia coli str. K-12 substr. MG1655	uniprot_UP000000625_17-11-22_K12	FALSE	
-PXD013610	a0,5t.raw	Not available	uniprot_UP000000625_17-11-22_K12	FALSE	
-PXD013610	ayt_161207182650.raw	Not available	uniprot_UP000000625_17-11-22_K12	FALSE	
-PXD013610	b0,5t.raw	Not available	uniprot_UP000000625_17-11-22_K12	FALSE	
-PXD013610	byt_161207194536.raw	Not available	uniprot_UP000000625_17-11-22_K12	FALSE	
-PXD013610	c0,5t.raw	Not available	uniprot_UP000000625_17-11-22_K12	FALSE	
-PXD013610	cyt.raw	Not available	uniprot_UP000000625_17-11-22_K12	FALSE	
-PXD016001	1DLC110217QE_antiEcoli_#11_BR1_FASP1_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR1_FASP1_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR1_FASP2_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR1_FASP2_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR2_FASP1_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR2_FASP1_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR2_FASP2_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR2_FASP2_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR3_FASP1_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR3_FASP1_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR3_FASP2_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#11_BR3_FASP2_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#28_BR1_run1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#28_BR1_run2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#28_BR2_run1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#28_BR2_run2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#28_BR3_run1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#28_BR3_run2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#28_BR3_run3.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
-PXD016001	1DLC110217QE_antiEcoli_#28_BR3_run4.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD013610	a0,5t.raw	Not available	uniprot_UP000000625_17-11-22_K12	TRUE	ion trap
+PXD013610	ayt_161207182650.raw	Not available	uniprot_UP000000625_17-11-22_K12	TRUE	ion trap
+PXD013610	b0,5t.raw	Not available	uniprot_UP000000625_17-11-22_K12	TRUE	ion trap
+PXD013610	byt_161207194536.raw	Not available	uniprot_UP000000625_17-11-22_K12	TRUE	ion trap
+PXD013610	c0,5t.raw	Not available	uniprot_UP000000625_17-11-22_K12	TRUE	ion trap
+PXD013610	cyt.raw	Not available	uniprot_UP000000625_17-11-22_K12	TRUE	ion trap
+PXD016074	1DLC110217QE_antiEcoli_#11_BR1_FASP1_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR1_FASP1_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR1_FASP2_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR1_FASP2_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR2_FASP1_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR2_FASP1_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR2_FASP2_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR2_FASP2_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR3_FASP1_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR3_FASP1_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR3_FASP2_tip1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#11_BR3_FASP2_tip2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#28_BR1_run1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#28_BR1_run2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#28_BR2_run1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#28_BR2_run2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#28_BR3_run1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#28_BR3_run2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#28_BR3_run3.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
+PXD016074	1DLC110217QE_antiEcoli_#28_BR3_run4.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	TRUE	Duplicate
 PXD016001	1DLC112017QE_antiEcoli_#18_BR2_FASP2.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	FALSE	
 PXD016001	1DLC112017QE_antiEcoli_#18_BR2_FASP3.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	FALSE	
 PXD016001	1DLC112017QE_antiEcoli_#19_BR2_FASP1.raw	Escherichia coli str. W0153	uniprot_UP000869295_13-03-23_AB1157	FALSE	
